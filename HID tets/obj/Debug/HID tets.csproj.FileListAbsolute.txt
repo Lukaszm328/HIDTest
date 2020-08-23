@@ -7,3 +7,13 @@ C:\Users\lukasz.kucia\source\repos\HID tets\HID tets\obj\Debug\HID tets.csprojAs
 C:\Users\lukasz.kucia\source\repos\HID tets\HID tets\obj\Debug\HID tets.csproj.CopyComplete
 C:\Users\lukasz.kucia\source\repos\HID tets\HID tets\obj\Debug\HID tets.exe
 C:\Users\lukasz.kucia\source\repos\HID tets\HID tets\obj\Debug\HID tets.pdb
+C:\Users\Łukasz\Desktop\Moje repo\HIDTest\HID tets\bin\Debug\HID tets.exe
+C:\Users\Łukasz\Desktop\Moje repo\HIDTest\HID tets\bin\Debug\HID tets.pdb
+C:\Users\Łukasz\Desktop\Moje repo\HIDTest\HID tets\bin\Debug\HidSharp.dll
+C:\Users\Łukasz\Desktop\Moje repo\HIDTest\HID tets\bin\Debug\HidSharp.pdb
+C:\Users\Łukasz\Desktop\Moje repo\HIDTest\HID tets\bin\Debug\HidSharp.xml
+C:\Users\Łukasz\Desktop\Moje repo\HIDTest\HID tets\obj\Debug\HID tets.csprojAssemblyReference.cache
+C:\Users\Łukasz\Desktop\Moje repo\HIDTest\HID tets\obj\Debug\HID tets.csproj.CoreCompileInputs.cache
+C:\Users\Łukasz\Desktop\Moje repo\HIDTest\HID tets\obj\Debug\HID tets.csproj.CopyComplete
+C:\Users\Łukasz\Desktop\Moje repo\HIDTest\HID tets\obj\Debug\HID tets.exe
+C:\Users\Łukasz\Desktop\Moje repo\HIDTest\HID tets\obj\Debug\HID tets.pdb
